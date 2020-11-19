@@ -1,2 +1,6 @@
-#background
-ビッグデータ業務でAzureDatabricksを扱うことになり、Azureの全体像を学ぶために取得。
+/* #background
+/* ビッグデータ業務でAzureDatabricksを扱うことになり、Azureの全体像を学ぶために取得。
+
+/* ##学習教材
+/* Microsoft Learn 「Azure の基礎」https://docs.microsoft.com/ja-jp/learn/paths/azure-fundamentals/
+/* 合格対策Microsoft認定AZ-900:Microsoft Azure Fundamentalsテキスト＆問題集（出版：リックテレコム/著：吉田薫）
